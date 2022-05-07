@@ -1,9 +1,0 @@
-{
-		"firstName": "Max",
-		"middleName": "Marc",
-		"lastName": "Mustermann",
-		"birthday": "01.02.3456",
-		"email": "my@mail.com",
-		"phone": "+23123456989",
-		"social": {"socialIcons":["socialIcon"],"socialStrings":["socialString"]}
-}
