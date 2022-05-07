@@ -5,10 +5,10 @@
 \RequirePackage[english,ngerman]{babel} %languages
 
 % NEWCOMMAND
-\newcommand{\email}{my@mail.com}
-\newcommand{\phone}{219778612}
-\newcommand{\firstName}{Max}
-\newcommand{\middleName}{Moritz}
-\newcommand{\lastName}{Mustermann}
-\newcommand{\birthday}{02.05.1900}
+\newcommand{\schEmail}{my@mail.com}
+\newcommand{\schPhone}{219778612}
+\newcommand{\schFirstname}{Max}
+\newcommand{\schMiddlename}{Moritz}
+\newcommand{\schLastname}{Mustermann}
+\newcommand{\schBirthday}{02.05.1900}
 
